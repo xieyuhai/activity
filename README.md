@@ -1,0 +1,1 @@
+利用android中的ActivityLifecycleCallbacks接口，实现activity的管理及activity之间传值，需要在application中初始化
